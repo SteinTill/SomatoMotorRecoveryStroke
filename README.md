@@ -1,4 +1,4 @@
-# Dear Visitor,
+# Dear visitor,
 
 once we have collected enough data, we will present preliminary results on this website. After publication, you will also find a link to the research article. 
 
